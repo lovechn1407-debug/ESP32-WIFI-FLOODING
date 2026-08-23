@@ -1,5 +1,3 @@
-
-<![CDATA[
 <p align="center">
   <img src="banner.png" alt="ESP32 SSID Spammer Banner" width="100%"/>
 </p>
@@ -269,4 +267,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">Made with ❤️ for the ESP32 & Arduino community</p>
-]]>
